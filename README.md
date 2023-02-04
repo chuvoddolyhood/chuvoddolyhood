@@ -10,7 +10,7 @@
 [<img align="left" alt="[www.PradipDebnath.com](https://chuvoddolyhood.github.io/trannhannghia/)" width="22px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />][website]
 <!-- [<img align="left" alt="Pradip Debnath | YouTube" width="22px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube] -->
 <!-- [<img align="left" alt="itzpradip | Twitter" width="22px" src="https://img.icons8.com/fluent/22/000000/twitter.png" />][twitter] -->
-[<img align="left" alt="[Nhân Nghĩa Trần](https://www.linkedin.com/in/trannhannghia2401/) | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/trannhannghia2401/" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
 <!-- [<img align="left" alt="Pradip Debnath | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />][facebook] -->
 
 **Languages and Tools:**
