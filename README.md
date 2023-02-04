@@ -7,7 +7,7 @@
 
 **Connect with me:**
 
-[<img align="left" alt="Pradip Debnath | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Nhân Nghĩa Trần | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
 
 **Languages and Tools:**
 
@@ -23,3 +23,5 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuvoddolyhood&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuvoddolyhood&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[linkedin]: [https://linkedin.com/in/itzpradip](https://www.linkedin.com/in/trannhannghia2401/)
