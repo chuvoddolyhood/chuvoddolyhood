@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @chuvoddolyhood
-- 💻 My major is Software Engineering and I'm currently a student at Cantho University.
+- 💻 I am Software Engineering and I'm currently working at RVSC. My company specializes in software development and software outsourcing.
 - 👀 To be honest, I'm a sucker for building as well as design UI for mobile application.
-- 🌱 Well, I’m currently learning mobile app based on Flutter platform and Android Native. Furthermore, I can comprehend English and Japanese language and its detailed technology documentation.
+- 🌱 Well, I’m currently addicted to mobile app based on React Native platform. Furthermore, I can comprehend English and a little bit Japanese language.
 - 💞️ I’m looking to collaborate on our massive project.
 - 📫 How to approach me <a href="https://chuvoddolyhood.github.io/trannhannghia/">chuhood's web</a> 🤣 Nothing important.
 
